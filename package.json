@@ -1,0 +1,15 @@
+{
+  "name": "custom-guten-block",
+  "version": "1.0.0",
+  "description": "This is custom gutenber block",
+  "main": "index.js",
+  "scripts": {
+    "start": "wp-scripts start",
+    "build": "wp-scripts build"
+  },
+  "author": "Maruf Khan",
+  "license": "ISC",
+  "devDependencies": {
+    "@wordpress/scripts": "30.9.0"
+  }
+}
